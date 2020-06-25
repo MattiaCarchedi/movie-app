@@ -1,0 +1,31 @@
+.routin-shop_page {
+    min-height: 100vh;
+}
+.routin-shop_btn {
+	background: darkred;
+	border-radius: 50%;
+	min-width: 80px;
+	min-height: 80px;
+	color: white;
+	margin: 50px;
+	border: 1px solid white;
+	outline-style: none;
+	font-size: 2em;
+	text-align: center;
+	padding: 20px;
+}
+.routin-shop_span {
+	text-align: center;
+	font-size: 4em;
+	font-weight: 600;
+}
+.routin-shop_counter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.bunt {
+	color: green;
+	font-size: 4em;
+}
